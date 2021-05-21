@@ -1,0 +1,32 @@
+#banner {
+   width: 100; 
+}
+
+h1{
+    color: gray;
+    font-family: 'Franklin Gothic Medium';
+}
+
+nav ul {
+    background-color:gray;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+nav li{
+    float: left;
+}
+
+nav a{
+    color:blanchedalmond;
+    font-family: Verdana;
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: crimson;
+}
